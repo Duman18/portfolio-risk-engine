@@ -27,7 +27,7 @@ How much could a HK$1,000,000 portfolio of five Hong Kong stocks lose on a bad d
 
 At 95% the normal distribution gives a higher VaR than history, but at 99% it gives a lower one. Real returns have fat tails: more calm days and more extreme days than the normal distribution predicts.
 
-At 95%, Expected Shortfall is HK$____, about __% larger than VaR.
+At 95%, Expected Shortfall is HK$31,300, about 45% larger than VaR. At 99%, historical ES is HK$49,135, while the normal distribution predicts only HK$38,065, about 23% less, which confirms that the normal model underestimates losses on the worst days.
 
 ![VaR chart](var_chart.png)
 
